@@ -1,0 +1,24 @@
+{
+  "name": "githubgraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharfy9/githubgraph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharfy9/githubgraph/issues"
+  },
+  "homepage": "https://github.com/sharfy9/githubgraph#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.27.0",
+    "simple-git": "^2.17.0"
+  }
+}
